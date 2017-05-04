@@ -1,0 +1,11 @@
+// SyncoPath settings.
+
+{
+  // Required: Your Firebase url https://[your-project].firebaseio.com
+  // No Trailing forward slash.
+  "firebase_url": "",
+
+  // Optional: What others in your project will see you as. 
+  // Defaults to you username on your machine
+  "user_name": ""
+}
